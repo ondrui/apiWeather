@@ -1,0 +1,63 @@
+.cart {
+  width: 100px;
+  height: auto;
+  border: 1px solid grey;
+  margin:10px;
+  float: left;
+  text-align: center;
+  padding: 20px;
+  color: navy;
+}
+.cart .name {
+  font-size: 1.4rem;
+  font-weight: bold;
+  font-family: arial;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+.cart .temperature {
+  font-size: 1.4rem;
+  font-weight: bold;
+  font-family: arial;
+  text-transform: uppercase;
+  margin: 0;
+}
+.icon {
+  margin: 0;
+}
+.cart1 {
+  width: 100px;
+  height: auto;
+  border: 1px solid grey;
+  margin:10px;
+  float: left;
+  text-align: center;
+  padding: 20px;
+  color: navy;
+}
+.cart1 .name1 {
+  font-size: 1.4rem;
+  font-weight: bold;
+  font-family: arial;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+.cart1 .temperature1 {
+  font-size: 1.4rem;
+  font-weight: bold;
+  font-family: arial;
+  text-transform: uppercase;
+  margin: 0;
+}
+.icon1 {
+  margin: 0;
+}
+/* .weather-out {
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+}
+.weathe-out::after {
+  content: "";
+  display: block;
+  clear:both;
+} */
